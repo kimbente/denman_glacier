@@ -1,5 +1,5 @@
 data/ice_velocity/*
 data/train_test_tensors/*
-trained_models/*
+trained_model/*
 results/*
 __pycache__/
