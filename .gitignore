@@ -1,1 +1,5 @@
-data/ice_velocity/antarctic_ice_vel_phase_map_v01_denman.nc
+data/ice_velocity/*
+data/train_test_tensors/*
+trained_models/*
+results/*
+__pycache__/
